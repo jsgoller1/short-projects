@@ -1,5 +1,5 @@
 # ray-tracing-in-one-weekend
-A CPU-based ray tracer implemented from Peter Shirley's [_Ray Tracing In One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+A CPU-based ray tracer implemented from Peter Shirley's [_Ray Tracing In One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html) (which definitely took me longer than a weekend to get working).
 
 ![](photo.png)
 
