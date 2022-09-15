@@ -1,6 +1,7 @@
-# dabblings
-Small, independent projects done to dabble in new areas of computer science. Each individual folder has been copied from a private git repo, containing a README and Makefile for running the project (if applicable).
+# short-projects
+A collection of individual, mostly unrelated small projects. Each folder has a README and Makefile.
 
 ## Directory listing
-- `game-of-life`: Implementation of the "Game of Life" by John Conway (RIP) in C with `ncurses`.
-- `ray-tracing-in-one-weekend`: CPU-based ray tracer written in C++, from Peter Shirley's famous book of the same name.
+- `elevator`: Python implementation of an elevator, written during [David Beazley's Advanced Python course](http://dabeaz.com/advprog.html).
+- `game-of-life`: C/ncurses implementation of [Conway's "Game of Life"](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
+- `ray-tracing`: C++ CPU-based ray tracer, adopted from [__Ray Tracing in One Weekend__](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8).
